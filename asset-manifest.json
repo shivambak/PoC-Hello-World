@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/PoC-Hello-World/static/css/main.69f988a3.css",
+    "main.js": "/PoC-Hello-World/static/js/main.2ae16078.js",
+    "static/js/453.ad6eb26e.chunk.js": "/PoC-Hello-World/static/js/453.ad6eb26e.chunk.js",
+    "static/media/rock-one-eyebrow-raised-rock-staring.gif": "/PoC-Hello-World/static/media/rock-one-eyebrow-raised-rock-staring.4921cda48c9c6f08228f.gif",
+    "static/media/1664006918432.jpeg": "/PoC-Hello-World/static/media/1664006918432.bae48853dec4b5249bbd.jpeg",
+    "index.html": "/PoC-Hello-World/index.html",
+    "main.69f988a3.css.map": "/PoC-Hello-World/static/css/main.69f988a3.css.map",
+    "main.2ae16078.js.map": "/PoC-Hello-World/static/js/main.2ae16078.js.map",
+    "453.ad6eb26e.chunk.js.map": "/PoC-Hello-World/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69f988a3.css",
+    "static/js/main.2ae16078.js"
+  ]
+}

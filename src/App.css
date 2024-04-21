@@ -1,7 +1,7 @@
 .App {
   font-family: 'Times New Roman', Times, serif;
   text-align: left;
-  padding: 20px;
+  padding: 10px;
 }
 
 .button {
@@ -34,6 +34,7 @@ h1 {
     animation: App-logo-spin infinite 20s linear;
   }
 }
+
 
 .App-header {
   background-color: #282c34;
